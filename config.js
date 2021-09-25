@@ -12,7 +12,7 @@ const CONFIG = {
     mess: 'mess',
     messDesc: 'messDesc',
     btnAccept: 'btnAccept',
-    messLink: 'messLink', //link fb
+    messLink: 'https://nammmvn.github.io/', //link fb
     bgLink: 'https://huypham9205.github.io/tang-crush/img/bg.webp', //link ảnh nền
     iputBgLink: 'https://huypham9205.github.io/tang-crush/img/iput-bg.jpg', //link iputBgLink
     lookMeLink: 'https://huypham9205.github.io/tang-crush/img/lookMe.jpg', //link ảnh lookMe
